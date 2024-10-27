@@ -80,6 +80,7 @@ npm test
 ### 📝 Notas Importantes
 - La reporteria html se Genera dentro de la carpeta **test-result/reports**  y la demas en **test-result**
 - para ejecutar una prueba en concreta se configura el glu dentro del archivo cucumber.js en el apartado de **path** 
-- se puede realizar manejo de tag con la variavle env **TAGS_EXECUTION** como  npm test --TAGS_EXECUTION=tag
+- se puede realizar manejo deejecucion de test por tag  con la variable env **TAGS_EXECUTION** como   $env:TAGS_EXECUTION="@carro"; npm test en windows
+- se puede realizar manejo browser por medio de la variable env **npm_config_BROWSER**  como  $env:npm_config_BROWSER="chrome"; npm test en windows
 
 ---
