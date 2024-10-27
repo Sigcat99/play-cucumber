@@ -10,7 +10,7 @@
 - [Instalación y Ejecución](#instalación-y-ejecución)
 
 ## 📄 Sobre el Proyecto
-Este proyecto es una automatización web  construida con tecnologías modernas y robustas. La solución implementa pruebas automatizadas utilizando las mejores prácticas de la industria.
+Este proyecto es una automatización web (https://www.demoblaze.com/index.html)  construida con tecnologías modernas y robustas. La solución implementa pruebas automatizadas utilizando las mejores prácticas de la industria.
 
 ### 🖥️ Web
 El desarrollo de esta automatización se implementó utilizando el Framework Cucumber 🥒 integrado con **Playwright** 🎭, combinando la potencia del desarrollo dirigido por comportamiento (BDD) con uno de los frameworks de automatización más robustos y confiables para pruebas end-to-end. Esta integración permite crear pruebas automatizadas más legibles y mantenibles, siguiendo el lenguaje Gherkin para la especificación de casos de prueba.
