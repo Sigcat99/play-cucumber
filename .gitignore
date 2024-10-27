@@ -1,0 +1,26 @@
+# Node artifacts
+node_modules/
+
+/test-results/
+# Playwright artifacts
+/playwright-report/
+/playwright/.cache/
+
+package-lock.json
+
+# Unnecessary js
+/config/*/*/*.js
+/functional-test/*/*/*/*.js
+/helpers/*/*.js
+/helpers/*/*/*.js
+/helpers/*/*/*/*.js
+/helpers/*/*/*/*/*.js
+/hooks/*.js
+
+
+.vscode/
+
+
+
+
+
